@@ -12,7 +12,6 @@
 # print(mean)
 # print(median)
 
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 # name = ["obi", "obi", "chika", "ifeanyi", "ikechi", "paschal", "friday", "chika", "collins"]

@@ -1,2 +1,5 @@
-sum_two_figures (sum__a,b)
-print(addition_of_figures)
+birth_year = input("Enter your birth_year: ")
+age = 2020 - int(birth_year)
+print(age)
+
+
